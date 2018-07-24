@@ -2,9 +2,9 @@
 Electron Apps
 
 NPM setup commands:
-mkdir dirname
-cd dirname
-npm init
+mkdir dirname ->
+cd dirname -> 
+npm init ->
 npm install --save electron
 
 Build and run scripts:
